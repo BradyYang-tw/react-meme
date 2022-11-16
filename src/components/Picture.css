@@ -1,0 +1,22 @@
+.picture {
+  width: 300px;
+  position: relative;
+}
+
+.pic--img {
+  width: 100%;
+}
+
+.top-text {
+  position: absolute;
+  top: 0;
+  left: 20%;
+  color: white;
+}
+
+.bottom-text {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  color: white;
+}
